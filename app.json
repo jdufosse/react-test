@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "2048 React",
+    "icon": "./public/logo512.png",
+    "version": "1.0.0",
+    "sdkVersion": "26.0.0",
+    "ios": {
+      "bundleIdentifier": "com.okkari.react2048"
+    },
+    "android": {
+      "package": "com.okkari.react2048"
+    }
+  }
+}
